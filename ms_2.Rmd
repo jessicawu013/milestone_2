@@ -9,4 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-The first project I am looking at is
+The first project I am looking at is the Harvard Blocking Group Project, since
+I am most likely going to be a part of this year's blocking group project.
+
+The second project I chose to look at was the Harvard Friend Group Study, in part because I think it probably have some relevance to blocking and in part because I am incredibly fascinated by the natural segregation that happens at colleges, with Harvard as certainly no exception. One of the cons of the project is that the data collected comes from 100 Eliot House residents. This could be problematic for two reasons: 
